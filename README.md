@@ -3,7 +3,7 @@
 What it is:
 A Snake game created as part of an assignment, with advanced functionalities, using C# forms. 
 
-Functionalities included:
+Functionalities include:
 * Appearing food(apples)
 * Growing snake
 * Score counting and displaying
